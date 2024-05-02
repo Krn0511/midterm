@@ -1,0 +1,7 @@
+.profile-picture {
+    width: 100px; /* Adjust width as needed */
+    height: 100; /* Maintain aspect ratio */
+    border-radius: 50%; /* Make it circular */
+    margin-right: 100px; /* Adjust spacing from navigation menu */
+  }
+  
